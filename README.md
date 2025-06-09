@@ -97,4 +97,4 @@ Ensure dependencies are installed in the active Python environment.
 License
 MIT License. See LICENSE for details.
 Contact
-For issues or suggestions, open a GitHub issue or contact your-email@example.com.```
+For issues or suggestions, open a GitHub issue or contact -mayankrajput1304@gmal.com.```
